@@ -1,1 +1,1 @@
-# SortingAlgo
+# Sorting Algo
