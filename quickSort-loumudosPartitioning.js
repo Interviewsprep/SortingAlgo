@@ -1,7 +1,7 @@
 /* Quick Sort
 
 In place sorting and most stable sorting
-Can be done using Lomudos Partioning and Hoare's Partitioning. 
+Can be done using Lomudos Partitioning and Hoare's Partitioning. 
 https://www.interviewkickstart.com/blogs/learn/quick-sort#:~:text=Quicksort%20works%20by%20dividing%20a,or%20no%20elements%20is%20created.
 */ 
 
